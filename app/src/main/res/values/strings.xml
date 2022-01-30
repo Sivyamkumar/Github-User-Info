@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GitHubAPI</string>
+    <string name="app_name">GItProfile</string>
 
     <string name="username">username: </string>
     <string name="login">Log In</string>
